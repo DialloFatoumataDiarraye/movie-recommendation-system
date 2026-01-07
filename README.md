@@ -272,10 +272,10 @@ Ce projet personnel est développé pour apprentissage et portfolio professionne
 
 ## 👤 Auteur
 
-DIALLO FATOUMATA DIALLO
+DIALLO FATOUMATA DIARRAYE
 - 🎓 Étudiante en L3 a EFREI PARIS
-- 💼 [LinkedIn] www.linkedin.com/in/fatoumata-diaraye-diallo-3a2258390
-- 🐙 [GitHub](https://github.com/votre-username)
+- 💼 [LinkedIn](www.linkedin.com/in/fatoumata-diaraye-diallo-3a2258390)
+- 🐙 [GitHub](https://github.com/DialloFatoumataDiarraye)
 
 ---
 
