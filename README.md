@@ -266,7 +266,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📄 Licence
 
-Ce projet est développé dans un cadre académique pour apprentissage et portfolio.
+Ce projet personnel est développé pour apprentissage et portfolio professionnel.
 
 ---
 
